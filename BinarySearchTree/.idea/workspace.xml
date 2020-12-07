@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5af75080-bebe-4987-a956-e6f1f85a75a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h9jw5wbUlOd2gA1qkjVXbNAnNK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../homework05" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.KrishStudentTest">
+    <configuration name="IndividualTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndividualTesting" />
+      <module name="homework04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTJeonghoonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTJeonghoonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTJustinTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTJustinTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BSTStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BSTStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KrishStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework04" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="KrishStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KrishStudentTest" />
+        <item itemvalue="JUnit.BSTJeonghoonTest" />
+        <item itemvalue="JUnit.BSTJustinTest" />
+        <item itemvalue="JUnit.BSTStudentTest" />
+        <item itemvalue="Application.IndividualTesting" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5af75080-bebe-4987-a956-e6f1f85a75a3" name="Default Changelist" comment="" />
+      <created>1599430437530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599430437530</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="283" key="FileChooserDialogImpl" timestamp="1602342517460">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1599430601235" />
+    <state x="2568" y="298" key="FileChooserDialogImpl/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1601821140363" />
+    <state x="741" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1602342517460" />
+    <state width="1681" height="279" key="GridCell.Tab.0.bottom" timestamp="1602634092783">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600736232815" />
+    <state width="1681" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1602634092783" />
+    <state width="1681" height="279" key="GridCell.Tab.0.center" timestamp="1602634092783">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600736232814" />
+    <state width="1681" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1602634092783" />
+    <state width="1681" height="279" key="GridCell.Tab.0.left" timestamp="1602634092783">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600736232814" />
+    <state width="1681" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1602634092783" />
+    <state width="1681" height="279" key="GridCell.Tab.0.right" timestamp="1602634092783">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600736232815" />
+    <state width="1681" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1602634092783" />
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1600376802746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600376802746" />
+    <state width="1921" height="356" key="GridCell.Tab.1.center" timestamp="1600376802746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.center/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600376802746" />
+    <state width="1921" height="356" key="GridCell.Tab.1.left" timestamp="1600376802746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.left/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600376802746" />
+    <state width="1921" height="356" key="GridCell.Tab.1.right" timestamp="1600376802746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.right/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600376802746" />
+    <state x="2425" y="228" key="NewModule_or_Project.wizard" timestamp="1601821147331">
+      <screen x="1920" y="23" width="1680" height="1010" />
+    </state>
+    <state x="2425" y="228" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1601821147331" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1599430609943">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1599430609943" />
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1599430512254">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1599430512254" />
+    <state x="2416" y="244" key="run.anything.popup" timestamp="1600186492819">
+      <screen x="1920" y="23" width="1680" height="1010" />
+    </state>
+    <state x="2416" y="244" key="run.anything.popup/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1600186492819" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600624992654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600624992654" />
+  </component>
+</project>

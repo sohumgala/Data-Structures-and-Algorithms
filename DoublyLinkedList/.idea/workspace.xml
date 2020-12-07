@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5390c53a-cb43-4e77-9ad8-131381f52a36" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gSqqRst5OBVBqiKOlHaB9uqc2P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.StudentTests">
+    <configuration name="IndividualTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndividualTesting" />
+      <module name="homework02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedListStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListStudentTest.testAddAtIndex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testAddAtIndex" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoublyLinkedListStudentTest.testRemoveFromFront" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoublyLinkedListStudentTest" />
+      <option name="METHOD_NAME" value="testRemoveFromFront" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework02" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="StudentTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StudentTests" />
+        <item itemvalue="JUnit.DoublyLinkedListStudentTest" />
+        <item itemvalue="Application.IndividualTesting" />
+        <item itemvalue="JUnit.DoublyLinkedListStudentTest.testRemoveFromFront" />
+        <item itemvalue="JUnit.DoublyLinkedListStudentTest.testAddAtIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5390c53a-cb43-4e77-9ad8-131381f52a36" name="Default Changelist" comment="" />
+      <created>1598118531839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598118531839</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1598806100019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598806100019" />
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598119382595" />
+    <state width="1921" height="239" key="GridCell.Tab.0.bottom" timestamp="1598649544839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598649544839" />
+    <state width="1681" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598466546607" />
+    <state width="1921" height="239" key="GridCell.Tab.0.center" timestamp="1598649544839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="239" key="GridCell.Tab.0.center/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598649544839" />
+    <state width="1681" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598466546607" />
+    <state width="1921" height="239" key="GridCell.Tab.0.left" timestamp="1598649544839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="239" key="GridCell.Tab.0.left/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598649544839" />
+    <state width="1681" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598466546607" />
+    <state width="1921" height="239" key="GridCell.Tab.0.right" timestamp="1598649544839">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="239" key="GridCell.Tab.0.right/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598649544839" />
+    <state width="1681" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598466546607" />
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1598636740474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598636740474" />
+    <state width="1921" height="356" key="GridCell.Tab.1.center" timestamp="1598636740474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.center/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598636740474" />
+    <state width="1921" height="356" key="GridCell.Tab.1.left" timestamp="1598636740474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.left/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598636740474" />
+    <state width="1921" height="356" key="GridCell.Tab.1.right" timestamp="1598636740474">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="356" key="GridCell.Tab.1.right/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598636740474" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1598806110171">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598806110171" />
+    <state x="2261" y="171" key="SettingsEditor" timestamp="1598649618107">
+      <screen x="1920" y="23" width="1680" height="1010" />
+    </state>
+    <state x="2261" y="171" key="SettingsEditor/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598649618107" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1600093910597">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1600093910597" />
+    <state x="2464" y="508" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598118546932">
+      <screen x="1920" y="23" width="1680" height="1010" />
+    </state>
+    <state x="2464" y="508" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598118546932" />
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup" timestamp="1598649544756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1598649544756" />
+    <state x="2423" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1598119318101" />
+  </component>
+</project>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c59076d-f949-4523-8e6b-ced8ea05faf2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iPteAOMejY64pDfvouupwbQ7uL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testing" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.AVLStudentTest">
+    <configuration name="IndividualTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IndividualTesting" />
+      <module name="homework07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLJacksonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLJacksonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLJeonghoonTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLJeonghoonTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLKrishTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLKrishTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AVLStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework07" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AVLStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AVLStudentTest" />
+        <item itemvalue="JUnit.AVLKrishTest" />
+        <item itemvalue="JUnit.AVLJacksonTest" />
+        <item itemvalue="Application.IndividualTesting" />
+        <item itemvalue="JUnit.AVLJeonghoonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c59076d-f949-4523-8e6b-ced8ea05faf2" name="Default Changelist" comment="" />
+      <created>1601821147363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601821147363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="741" y="283" key="FileChooserDialogImpl" timestamp="1603144044517">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601826060022" />
+    <state x="741" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603144044517" />
+    <state x="2568" y="301" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1602255629302" />
+    <state width="1681" height="269" key="GridCell.Tab.0.bottom" timestamp="1605028010581">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601849630983" />
+    <state width="1681" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1602021588332" />
+    <state width="1921" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603114051464" />
+    <state width="1681" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605028010581" />
+    <state width="1681" height="269" key="GridCell.Tab.0.center" timestamp="1605028010581">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601849630983" />
+    <state width="1681" height="289" key="GridCell.Tab.0.center/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1602021588332" />
+    <state width="1921" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603114051464" />
+    <state width="1681" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605028010581" />
+    <state width="1681" height="269" key="GridCell.Tab.0.left" timestamp="1605028010581">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601849630983" />
+    <state width="1681" height="289" key="GridCell.Tab.0.left/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1602021588332" />
+    <state width="1921" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603114051464" />
+    <state width="1681" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605028010581" />
+    <state width="1681" height="269" key="GridCell.Tab.0.right" timestamp="1605028010581">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601849630983" />
+    <state width="1681" height="289" key="GridCell.Tab.0.right/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1602021588332" />
+    <state width="1921" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603114051464" />
+    <state width="1681" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605028010581" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1603144059444">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603144059444" />
+    <state x="2323" y="184" key="SettingsEditor" timestamp="1604851467005">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601826069081" />
+    <state x="2323" y="184" key="SettingsEditor/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1604851467005" />
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601824745243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601824745243" />
+    <state x="2416" y="246" key="run.anything.popup" timestamp="1604851468999">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="2416" y="246" key="run.anything.popup/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1604851468999" />
+    <state x="2465" y="245" width="672" height="660" key="search.everywhere.popup" timestamp="1604851471223">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.23.1680.1010@0.0.1920.1040" timestamp="1601826076263" />
+    <state x="2465" y="242" width="670" height="659" key="search.everywhere.popup/0.0.1920.1040/1920.23.1680.1010@1920.23.1680.1010" timestamp="1602021588245" />
+    <state x="623" y="226" width="766" height="679" key="search.everywhere.popup/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1603053490762" />
+    <state x="2465" y="245" width="672" height="660" key="search.everywhere.popup/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1604851471223" />
+  </component>
+</project>

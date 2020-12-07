@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d017c36f-c14d-4ad8-98a0-d85faa455cd2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k9mesypI261FHygNAITzi9es2q" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive - Georgia Institute of Technology/Fall 2020/DSA/CS1332-checkstyle.xml" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.GraphAlgorithmsCharlieTest">
+    <configuration name="GraphAlgorithmsAubreyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsAubreyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsCharlieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsCharlieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsKrishTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsKrishTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsStudentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework10" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsStudentTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphAlgorithmsCharlieTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsAubreyTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsStudentTest" />
+        <item itemvalue="JUnit.GraphAlgorithmsKrishTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d017c36f-c14d-4ad8-98a0-d85faa455cd2" name="Default Changelist" comment="" />
+      <created>1605121279501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605121279501</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1605121389879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605121389879" />
+    <state width="1921" height="279" key="GridCell.Tab.0.bottom" timestamp="1605820627150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1605820627150" />
+    <state width="1681" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605651266077" />
+    <state width="1921" height="279" key="GridCell.Tab.0.center" timestamp="1605820627150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1605820627150" />
+    <state width="1681" height="279" key="GridCell.Tab.0.center/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605651266076" />
+    <state width="1921" height="279" key="GridCell.Tab.0.left" timestamp="1605820627149">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1605820627149" />
+    <state width="1681" height="279" key="GridCell.Tab.0.left/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605651266076" />
+    <state width="1921" height="279" key="GridCell.Tab.0.right" timestamp="1605820627150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1605820627150" />
+    <state width="1681" height="279" key="GridCell.Tab.0.right/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605651266076" />
+    <state x="2261" y="174" key="SettingsEditor" timestamp="1605121400166">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="2261" y="174" key="SettingsEditor/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605121400166" />
+    <state x="2456" y="356" key="com.intellij.ide.util.TipDialog" timestamp="1605192420709">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="2456" y="356" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605192420709" />
+    <state x="2464" y="425" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605124011150">
+      <screen x="1920" y="26" width="1680" height="1010" />
+    </state>
+    <state x="2464" y="425" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605124011150" />
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup" timestamp="1605820627057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="575" y="223" width="768" height="699" key="search.everywhere.popup/0.0.1920.1040/1920.26.1680.1010@0.0.1920.1040" timestamp="1605820627057" />
+    <state x="2423" y="243" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.26.1680.1010@1920.26.1680.1010" timestamp="1605398790159" />
+  </component>
+</project>
